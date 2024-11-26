@@ -1,0 +1,9 @@
+# Python dependencies for core-platform
+
+fastapi==0.88.0
+uvicorn==0.20.0
+sqlalchemy==1.4.46
+pydantic==1.10.2
+psycopg2-binary==2.9.3
+alembic==1.8.1
+python-dotenv==0.21.0
